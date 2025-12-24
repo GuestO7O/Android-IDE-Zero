@@ -1,0 +1,9 @@
+{
+  "name": "Zero-IDE Mobile",
+  "description": "A high-performance, web-based Integrated Development Environment (IDE) modeled after VS Code, optimized for Android devices (Samsung Galaxy S21 Ultra/Termux). Features integrated Gemini AI (Agent Zero) for code generation and analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
